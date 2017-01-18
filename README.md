@@ -5,3 +5,5 @@ Uses
  - Spring Data JPA and Hibernate for persistence
  - Maven
  - Open Beer Database https://openbeerdb.com/
+ 
+The application will soon be accessible on heroku
